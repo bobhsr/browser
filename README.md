@@ -27,7 +27,7 @@ Install from source
 <pre>
 git clone git@github.com:bobhsr/browser.git
 cd browser
-sudo bash buil.sh
+sudo bash built.sh
 sudo dpkg --install webbrowser_1.0-1_i386.deb
 browser
 </pre>
