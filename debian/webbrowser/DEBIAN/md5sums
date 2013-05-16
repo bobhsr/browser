@@ -1,9 +1,10 @@
 bea40d945c8a787914e1fa296f96ddd8  usr/bin/browser
-1b85a2ba1b8aa0373601c7c70120b154  usr/share/applications/webbrowser.desktop
+2dc5f1ad6d5222ae845f695648dfe218  usr/share/applications/webbrowser.desktop
 67eccd5c5adf33f3ebd5cdba6f86badf  usr/share/doc/webbrowser/README.Debian
-7d7f2a4d49e60996d5d3c0a8a64c4e6f  usr/share/doc/webbrowser/changelog.Debian.gz
+4fba5881946a1f2cd0853ee1c1bb8823  usr/share/doc/webbrowser/changelog.Debian.gz
 05676b4be8d46bb48aa8a58530e09b5e  usr/share/doc/webbrowser/copyright
 4cc803ce68ee4726fc4123d3e3d70f58  usr/share/webbrowser/data/imgs/browser-icon.png
 6ab3b976c94931e4015f06e0eb064c2f  usr/share/webbrowser/data/imgs/browser.ico
-1b85a2ba1b8aa0373601c7c70120b154  usr/share/webbrowser/data/webbrowser.desktop
+6f1df7f8c423f115ae78f8fafe54d27b  usr/share/webbrowser/data/imgs/browser.png
+2dc5f1ad6d5222ae845f695648dfe218  usr/share/webbrowser/data/webbrowser.desktop
 bea40d945c8a787914e1fa296f96ddd8  usr/share/webbrowser/src/browser
