@@ -4,6 +4,19 @@ Web Browser
 Web Browser built with Gnome Javascrit and GKT.
 
 
+## Features
+
+Simplify your browser with :
+
+* **URL Bar**
+
+  Type a url in the url bar will load the url.
+
+* **Standard browser**
+
+  Standard browser bottons like back/forward and reload.
+  
+
 Screet Shot for browser:
 
 
