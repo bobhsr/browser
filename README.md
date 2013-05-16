@@ -31,3 +31,9 @@ sudo bash built.sh
 sudo dpkg --install webbrowser_1.0-1_i386.deb
 browser
 </pre>
+
+
+Changelog
+---------------------
+* 0.1.0
+**  Initial release
