@@ -1,0 +1,7 @@
+*.deb
+*.changes
+*.build
+*.pyc
+*.swp
+.coverage
+cover
