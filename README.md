@@ -33,6 +33,7 @@ browser
 </pre>
 
 
-Changelog
----------------------
-* 0.1.0 - Initial release
+## Change Log
+
+0.1.0
++ Initial Release
