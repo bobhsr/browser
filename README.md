@@ -10,11 +10,24 @@ Screet Shot for browser:
 ![Screet Shot](https://raw.github.com/bobhsr/browser/master/data/imgs/browser.png)
 
 
-Install from Debian Package
+Install from Built Debian Package
 ---------------------
 
 <pre>
 git clone git@github.com:bobhsr/browser.git
 cd browser/install
-sudo dpkg --install webbrowser_1.0-1_i386.deb 
+sudo dpkg --install webbrowser_1.0-1_i386.deb
+browser
+</pre>
+
+
+Install from source
+---------------------
+
+<pre>
+git clone git@github.com:bobhsr/browser.git
+cd browser
+sudo bash buil.sh
+sudo dpkg --install webbrowser_1.0-1_i386.deb
+browser
 </pre>
