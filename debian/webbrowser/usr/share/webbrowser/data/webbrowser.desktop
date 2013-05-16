@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Name=WebBrowser
+Name[en_US]=WebBrowser
+Name[pt_BR]=WebBrowser
+Name[es_GT]=WebBrowser
+Comment=Web Browser
+GenericName=WebBrowser
+Icon=/usr/share/webbrowser/data/imgs/browser-icon.png
+Exec=browser
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;
+X-Ayatana-Desktop-Shortcuts=NewWindow;NewIncognito
+
+

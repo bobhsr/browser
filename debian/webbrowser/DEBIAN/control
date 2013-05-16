@@ -1,0 +1,10 @@
+Package: webbrowser
+Version: 1.0-1
+Architecture: i386
+Maintainer: bob <bobhsr@gmail.com>
+Installed-Size: 402
+Section: unknown
+Priority: extra
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

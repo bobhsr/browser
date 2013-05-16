@@ -1,0 +1,4 @@
+data/* usr/share/webbrowser/data
+data/webbrowser.desktop usr/share/applications
+src/* usr/share/webbrowser/src
+src/browser /usr/bin
